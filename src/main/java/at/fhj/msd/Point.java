@@ -1,6 +1,7 @@
 package at.fhj.msd;
 
 public class Point {
+      
       private double x;
       private double y;
 
